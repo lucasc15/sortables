@@ -4,4 +4,4 @@ Here is my solution for the coding challenge completed in python. To run the sol
 
 `python sortable.py`
 
-Results are output to `results/results.txt`
+Results are output to `results/results.txt`.
